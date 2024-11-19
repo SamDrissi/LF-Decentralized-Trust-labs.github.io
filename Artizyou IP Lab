@@ -1,0 +1,26 @@
+---
+layout: default
+title: Artizyou IP Lab
+parent: Labs
+---
+
+# Lab Name
+Artizyou IP Lab
+
+# Short Description
+Artizyou IP Lab is dedicated to democratizing intellectual property protection by providing a blockchain-based platform for secure registration and certification of digital creations at no cost.
+
+# Scope of Lab
+The Artizyou IP Lab will focus on enhancing the existing Artizyou platform to support blockchain-based IP certification, interoperability with decentralized identity technologies, and integration with other open-source trust technologies under the Linux Foundation. This aligns with the LF Decentralized Trust’s mission to foster the development of open-source projects that enhance trust in digital interactions.
+
+# Initial Committers
+- https://github.com/Artizyou-inc
+
+# Sponsor
+Sam Drissi (sam@artizyou.com) - Initiator of the Artizyou IP Lab
+
+# Pre-existing repository
+- https://github.com/Artizyou-inc/artizyou
+
+The main app development is also hosted under:
+- https://github.com/Artizyou-inc/artizyou/tree/staging/app
